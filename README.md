@@ -1,0 +1,3 @@
+# threejs-boilerplate
+
+npm install
